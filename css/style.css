@@ -1,0 +1,12 @@
+img {
+    width: 20vw;
+    display: inline-block;
+    height: 42%;
+    vertical-align: middle;
+}
+
+div {
+    text-align: center;
+    /*   margin: auto;
+    width: 100%; */
+}
